@@ -1,0 +1,16 @@
+.size {
+    border-color:#008998;
+	border-style:solid;
+	text-align:center;
+	vertical-align:middle;
+	height:30px;
+	}
+
+.size1 {
+    border-color:#008998;
+	border-style:solid;
+	text-align:left;
+	vertical-align:middle;
+	height:30px;
+	}
+/*----------------------------------------------------------------------------*/
